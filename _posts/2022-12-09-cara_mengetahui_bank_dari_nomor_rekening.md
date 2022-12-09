@@ -15,7 +15,7 @@ Setiap bank menerbitkan jumlah digit nomor rekening yang berbeda-beda. Makanya, 
 
 Kadang, untuk transfer uang tak cukup dengan nomor rekening saja. Terutama kalau transfer beda bank. Kamu butuh tahu nama bank dari rekening tersebut. Untuk mengetahui nama bank, kita bisa langsung bertanya ke pemilik rekening. Tapi, kita juga bisa tahu hanya dari melihat nomor rekening itu sendiri.
 
-##Cara Mengetahui Bank dari Nomor Rekening
+##Cara Mengetahui Bank dari Nomor Rekening##
 
 1. Jumlah digit nomor rekening
 
