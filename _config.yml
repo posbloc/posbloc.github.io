@@ -4,12 +4,12 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Simpleyyt
-subtitle: Yitao's Blog
+title: Pos Bloc
+subtitle: Post Blog
 description: Too simple, sometimes naive.
-author: Simpleyyt
+author: Pos Bloc
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: zh-Hans
+language: id
 date_format: '%Y-%m-%d'
 
 # URL
