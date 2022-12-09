@@ -9,9 +9,11 @@ tags:
 published: true
 ---
 
-Setiap bank menerbitkan jumlah digit nomor rekening yang berbeda-beda. Makanya, kita akan menyimpan nomor rekening di kontak atau catatan ponsel. Supaya kalau sewaktu-waktu dibutuhkan kita bisa langsung memberikan nomor rekening dengan mudah.
+![Cara Mengetahui Bank dari Nomor Rekening](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg68RuPjD_0xxbuWqv18FKFhfmhJA21V2HkPhcn958gQspZU-EW6DfYIehip1G7qTsIG1GAifh8Mj1ee3-XvGfU-3Np3-IkxYSN1IJzy3_kVI-uEYi0MBnW9KT5XaZlNhHMRk90QCJ_ITe78_HDo40xxPm1XepTcCjhSKEvgBodAjpvSOKIjJz2Ckj0aQ/s16000/credit-card-payment-buy-sell-products-service.jpg)
 
 <!--more-->
+
+Setiap bank menerbitkan jumlah digit nomor rekening yang berbeda-beda. Makanya, kita akan menyimpan nomor rekening di kontak atau catatan ponsel. Supaya kalau sewaktu-waktu dibutuhkan kita bisa langsung memberikan nomor rekening dengan mudah.
 
 Kadang, untuk transfer uang tak cukup dengan nomor rekening saja. Terutama kalau transfer beda bank. Kamu butuh tahu nama bank dari rekening tersebut. Untuk mengetahui nama bank, kita bisa langsung bertanya ke pemilik rekening. Tapi, kita juga bisa tahu hanya dari melihat nomor rekening itu sendiri.
 
